@@ -1,3 +1,4 @@
-Game developer using the Unity game engine.
+Freshman at the University of Georgia studying Computer Science
 
-Experience in: C#, Java, and Rust.
+Game developer using Unity Engine and C#
+Proficient in: C#, Java, Blender (3d modeling software) 
